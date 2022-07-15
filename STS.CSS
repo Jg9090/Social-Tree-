@@ -1,0 +1,55 @@
+*{
+    margin: auto;
+    padding: auto;
+    border: 10ch;
+    font-family: 'Roboto Flex', sans-serif;
+    
+}
+
+h1 {
+    
+    color: #8257E5;
+    border: #8257E5;
+    border-radius: 10px;
+    border-style: outset;
+    width: 90px;
+    text-align: center;
+    opacity: 0.9;
+    border-width: thin;
+
+
+}
+
+.PF{
+
+    text-align: center;
+    color: #8257E5;
+    border: #8257E5;
+    
+    border-style: outset;
+    width: 250px;
+    height: 250px;
+}
+
+h3{
+
+    color: #8257E5;
+    border: #8257E5;
+    border-radius: 10px;
+    border-style: outset;
+    width: 90px;
+    text-align: center;
+    opacity: 0.9;
+    border-width: thin;
+
+
+
+
+}
+
+body{
+
+    background-color: white;
+    
+}
+
